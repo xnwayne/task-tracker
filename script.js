@@ -2,7 +2,6 @@ const inputEl = document.querySelector("#task-input");
 const submitBtn = document.querySelector("#submit-btn");
 const tasksContainer = document.querySelector(".tasks");
 const errorEl = document.querySelector(".error");
-const deleteBtn = document.querySelectorAll(".delete");
 
 let tasks = [];
 
